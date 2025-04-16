@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gonf1i6jm-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gonf1i6jm-python-gitops
